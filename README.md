@@ -15,7 +15,7 @@ Se você compartilha do mesmo interesse por tecnologia e programação, ou se qu
 #### Contatos
 
 - 📧 Email: [danubiabcamargo@gmail.com](danubiabcamargo@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/dc-danubia](https://www.linkedin.com/in/danubiacamargo/](https://www.linkedin.com/in/dc-danubia/)
+- 🔗 LinkedIn: [linkedin.com/in/dc-danubia](https://www.linkedin.com/in/dc-danubia/)
 
 🖥️ Atualmente mais focada em:
 
