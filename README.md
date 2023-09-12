@@ -19,3 +19,7 @@ Se você compartilha do mesmo interesse por tecnologia e programação, ou se qu
 
 🖥️ Atualmente mais focada em:
 
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img widtg="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+          
+
