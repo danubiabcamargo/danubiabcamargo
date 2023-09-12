@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou Danubia Camargo! 👋
 
-<!--
-**danubiabcamargo/danubiabcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍💻 Assistente de Professora de Programação na Fundação Casa, pela ONG SOMAS.
+- 🎓 Atualmente estudando no Senac Lapa Tito no curso técnico de Informática para Internet.
+- 🚀 Apaixonada por programação e buscando aprofundar meus conhecimentos na área.
 
-Here are some ideas to get you started:
+#### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Danubia Camargo, tenho 30 anos, e sou apaixonada por tecnologia e programação. Atualmente, trabalho como assistente de professora de programação na Fundação Casa, através da ONG SOMAS, onde tenho a oportunidade de compartilhar meu conhecimento e inspirar jovens a se aventurarem no mundo da programação.
+
+Além disso, estou cursando Informática para Internet no Senac Lapa Tito, onde estou me aprimorando em diversas áreas da tecnologia. Estou sempre em busca de aprender mais e aprofundar meus conhecimentos na área de programação.
+
+Se você compartilha do mesmo interesse por tecnologia e programação, ou se quiser trocar ideias e colaborar em projetos emocionantes, não hesite em entrar em contato comigo. Vamos aprender e crescer juntos!
+
+#### Contatos
+
+- 📧 Email: [danubiabcamargo@gmail.com](danubiabcamargo@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/dc-danubia](https://www.linkedin.com/in/danubiacamargo/](https://www.linkedin.com/in/dc-danubia/)
+
+🖥️ Atualmente mais focada em:
+
