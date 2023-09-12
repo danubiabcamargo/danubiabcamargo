@@ -18,8 +18,8 @@ Se você compartilha do mesmo interesse por tecnologia e programação, ou se qu
 - 🔗 LinkedIn: [linkedin.com/in/dc-danubia/](https://www.linkedin.com/in/dc-danubia/)
 
 🖥️ Atualmente mais focada em:
-
+<div style="display:inline">
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img widtg="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-          
+<img widtg="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+</div>          
 
