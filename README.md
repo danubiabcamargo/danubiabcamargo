@@ -23,3 +23,8 @@ Se você compartilha do mesmo interesse por tecnologia e programação, ou se qu
 <img widtg="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 </div>          
 
+
+<div style="display: inline_block">
+	<a href="https://instagram.com/dc.nunubs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/dc-danubia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
