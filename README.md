@@ -12,17 +12,16 @@ Além disso, estou cursando Informática para Internet no Senac Lapa Tito, onde 
 
 Se você compartilha do mesmo interesse por tecnologia e programação, ou se quiser trocar ideias e colaborar em projetos emocionantes, não hesite em entrar em contato comigo. Vamos aprender e crescer juntos!
 
-#### Contatos
 
-- 📧 Email: [danubiabcamargo@gmail.com](danubiabcamargo@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/dc-danubia/](https://www.linkedin.com/in/dc-danubia/)
+
 
 🖥️ Atualmente mais focada em:
 <div style="display:inline">
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img widtg="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-</div>          
+</div>        
 
+#### Contatos
 
 <div style="display: inline_block">
 	<a href="https://instagram.com/dc.nunubs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
