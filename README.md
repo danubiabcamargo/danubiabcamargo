@@ -44,3 +44,6 @@ Vamos aprender e crescer juntos!
 <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=danubiabcamargo&theme=merko" /> 
 <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=danubiabcamargo&layout=compact&theme=merko"/>
 </div>
+
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/danubiabcamargo/count.svg" /></p>
